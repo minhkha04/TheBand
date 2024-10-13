@@ -494,7 +494,9 @@ html {
     font-size: 15px;
     text-decoration: none;
 }
-
+.form {
+    width: 100%;
+}
 .menu {
     display: none;
     font-size: 22px;
